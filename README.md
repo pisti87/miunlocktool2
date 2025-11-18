@@ -18,7 +18,7 @@ By downloading and using this software you agree that your Xiaomi account might 
 
 Исходный код модно найти по тегу "OpenSource**" (**-версия)
 
-Пользуясь этой программой вы осознаёте риск водмодноц блокировки аккаунта.
+Пользуясь этой программой вы осознаёте риск возможной блокировки аккаунта.
 
 Telegram (Global): https://t.me/miunlocktoolnew
 

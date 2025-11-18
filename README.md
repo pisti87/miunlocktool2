@@ -6,6 +6,7 @@ Start the unlocking process before 23:59 in Beijing time
 You are not required to connect your phone
 
 If you need open source, choose tag that have "OpenSource**" in it. (** - version)
+For newer options starting from 4.5, source code is in the same archive as the main program.
 
 By downloading and using this software you agree that your Xiaomi account might get banned or deleted.
 

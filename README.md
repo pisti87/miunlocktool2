@@ -5,10 +5,13 @@ Can be used on HyperOS1/2/3.
 Start the unlocking process before 23:59 in Beijing time
 You are not required to connect your phone
 
-If you need open source, choose tag that have "OpenSource**" in it. (** - version)
-For newer options starting from 4.5, source code is in the same archive as the main program.
+Source code is in the same archive as the program itself starting from version 4.5.
 
-By downloading and using this software you agree that your Xiaomi account might get banned or deleted.
+Please refer to instructions in the program.
+
+Always use new versions. Versions lower 4.8 may not work correctly.
+
+By downloading and using this software you agree that your Xiaomi may ban your permission to submit request. 
 
 //RU
 
@@ -17,11 +20,16 @@ By downloading and using this software you agree that your Xiaomi account might 
 
 Пожалуйста, читайте инструкцию. Подключение телефона не нужно для разблокировки.
 
-Исходный код модно найти по тегу "OpenSource**" (**-версия)
+Исходный код находится в том же архиве что и сама программа.
 
-Пользуясь этой программой вы осознаёте риск возможной блокировки аккаунта.
+Пожалуйста, читайте инструкцию в настройках программы.
 
-Telegram (Global): https://t.me/miunlocktoolnew
+Не используйте версию 4.7 или ниже.
+
+Пользуясь этой программой вы осознаёте риск возможной блоктровки отправки запросов в Xiaomi Community.
+
+Telegram:
+https://t.me/miunlocktoolnew
 
 Telegram (English): 
 The link was supposed to be here.

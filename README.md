@@ -23,4 +23,7 @@ By downloading and using this software you agree that your Xiaomi account might 
 
 Telegram (Global): https://t.me/miunlocktoolnew
 
-Telegram (English): https://t.me/miunlocktoolnewen
+Telegram (English): 
+The link was supposed to be here.
+
+The account that managed English telegram channel has been deleted and we wont be able to upload new versions there. Please refer to Global telegram channel since there is both English and russian languages used.

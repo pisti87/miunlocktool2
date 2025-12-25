@@ -13,6 +13,8 @@ Always use new versions. Versions lower 4.8 may not work correctly.
 
 By downloading and using this software you agree that your Xiaomi may ban your permission to submit request. 
 
+If you found any issues or have a suggestion, please go to "Issues" tab.
+
 //RU
 
 Программа для автоматической отправки запроса на разблокировку загрузчика 
@@ -27,6 +29,8 @@ By downloading and using this software you agree that your Xiaomi may ban your p
 Не используйте версию 4.7 или ниже.
 
 Пользуясь этой программой вы осознаёте риск возможной блоктровки отправки запросов в Xiaomi Community.
+
+Если вы нвли баг или есть предложение, используйте вкладку "Issues" или же "Проблемы".
 
 Telegram:
 https://t.me/miunlocktoolnew

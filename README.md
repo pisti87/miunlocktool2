@@ -30,7 +30,7 @@ If you found any issues or have a suggestion, please go to "Issues" tab.
 
 Пользуясь этой программой вы осознаёте риск возможной блоктровки отправки запросов в Xiaomi Community.
 
-Если вы нвли баг или есть предложение, используйте вкладку "Issues" или же "Проблемы".
+Если вы нашли баг или есть предложение, используйте вкладку "Issues" или же "Проблемы".
 
 Reddit: https://www.reddit.com/r/miunlocktool
 

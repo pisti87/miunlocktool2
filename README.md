@@ -32,6 +32,8 @@ If you found any issues or have a suggestion, please go to "Issues" tab.
 
 Если вы нвли баг или есть предложение, используйте вкладку "Issues" или же "Проблемы".
 
+Reddit: https://www.reddit.com/r/miunlocktool
+
 Telegram:
 https://t.me/miunlocktoolnew
 

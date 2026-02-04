@@ -41,3 +41,12 @@ Telegram (English):
 The link was supposed to be here.
 
 The account that managed English telegram channel has been deleted and we wont be able to upload new versions there. Please refer to Global telegram channel since there is both English and russian languages used.
+
+
+You can support us using crypto or donationalerts! (All money will be split between developers)
+
+Crypto (USDT/TON network): UQBCkvXTF-NiT7P8g0G-4oiAdsU81rMWJNYBTxDrbl76FabG
+
+Crypto #2 (Bitcoin/Bitcoin network): bc1qzzt00sk0zdxgskw8xx8cjh4jl69wl7fvlshhsh
+
+DonationAlerts: https://www.donationalerts.com/r/asinsideout

@@ -2,7 +2,8 @@
 A tool for unlocking bootloader on your Xiaomi/Redmi/Poco phone.
 Can be used on HyperOS1/2/3.
 
-Start the unlocking process before 23:59 in Beijing time
+Start the unlocking process before 23:59 in Beijing time.
+
 You are not required to connect your phone
 
 Source code is in the same archive as the program itself starting from version 4.5.
@@ -26,7 +27,7 @@ If you found any issues or have a suggestion, please go to "Issues" tab.
 
 Пожалуйста, читайте инструкцию в настройках программы.
 
-Не используйте версию 4.7 или ниже.
+Не используйте версию 4.8 или ниже.
 
 Пользуясь этой программой вы осознаёте риск возможной блоктровки отправки запросов в Xiaomi Community.
 
@@ -43,7 +44,7 @@ The link was supposed to be here.
 The account that managed English telegram channel has been deleted and we wont be able to upload new versions there. Please refer to Global telegram channel since there is both English and russian languages used.
 
 
-You can support us using crypto or donationalerts! (All money will be split between developers)
+You can support us using crypto or donationalerts! (All money will be split between developers) //// Вы можете поддержать нас используя криптовалюты или DonationAlerts! (все деньги будут поделены между разработчиками)
 
 Crypto (USDT/TON network): UQBCkvXTF-NiT7P8g0G-4oiAdsU81rMWJNYBTxDrbl76FabG
 

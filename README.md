@@ -1,6 +1,6 @@
 # miunlocktool
 
-[Logo](images/IMG_20260212_012623_326.jpg)
+![Logo](images/IMG_20260212_012623_326.jpg)
 
 Owner of the script: github.com/laminaty68-ctrl
 

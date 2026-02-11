@@ -1,5 +1,7 @@
 # miunlocktool
 
+[Logo](images/IMG_20260212_012623_326.jpg)
+
 Owner of the script: github.com/laminaty68-ctrl
 
 A tool for unlocking bootloader on your Xiaomi/Redmi/Poco phone.

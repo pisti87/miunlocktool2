@@ -1,34 +1,57 @@
-# miunlocktool
+# Xiaomi Unlock Tool
 
 ![Logo](images/IMG_20260212_012623_326.jpg)
 
-Owner of the script: github.com/laminaty68-ctrl
+github.com/laminaty68-ctrl
 
-A tool for unlocking bootloader on your Xiaomi/Redmi/Poco phone.
-Can be used on HyperOS1/2/3.
+----------ABOUT----------
+Xiaomi Unlock Tool is universal program for unlocking bootloader on your Xiaomi/Redmi/Poco phone that runs on HyperOS!
+All HyperOS versions work EXCEPT China (CNXM). The tool also can run on Mobile phone or tablet which means you don't need PC!
 
-Start the unlocking process before 23:59 in Beijing time.
+----------REQUIREMENTS----------
+1) Any device
+2) New version of the tool itself
+3) Pydroid3 for Android phone/tablets
 
-You are not required to connect your phone
+----------INSTRUCTIONS (PC)----------
+1) Download new version from Releases page.
+2) Unarchive the whole ZIP anywhere.
+3) Open "Xiaomi Unlock Tool *.*" (*.* - version number).
+4) Read the Welcome text and click "Continue".
+5) In the program itself, click "Instructions and Script settings".
+6) Click "Getting Cookies" and choose your browser.
+7) Follow the tutorial and get "new_bbs_token".
+8) Close the instructions window and go to main program.
+9) Insert your "new_bbs_token" in the field and click "Start application".
+10) Wait for 23:55 in Beijing, the program synchronizes the time again.
+11) Wait for 23:59.40, the program will start calculating ping.
+12) In 23:59.58 the program sends the request (or spam them if spam is enabled in the settings).
+13) In 00:01 (Beijing) you can try to bind your Account in developer settings.
+That's it!
 
-Source code is in the same archive as the program itself starting from version 4.5.
 
-Please refer to instructions in the program.
+----------INSTRUCTIONS (Mobile/Tablet)----------
+1) Download new version from Releases page.
+2) Unarchive the whole ZIP anywhere.
+3) Open "README n CREDITS" file, install everything it says and continue from instructions from step 4 (for pc)
+That's it!
 
-Always use new versions. Versions lower 4.8 may not work correctly.
+Found any issues or have a suggestion? Contact us:
+Email: asinsideoutt@gmail.com
+Telegram: @hyeplet231
+Reddit: u/AsInsideOut
+Or create a new issue in "Issues" tab.
 
-By downloading and using this software you agree that your Xiaomi may ban your permission to submit request. 
-
-If you found any issues or have a suggestion, please go to "Issues" tab.
 
 Starting from version 5.8 source code can be found in the "Source Code" folder in the project. There will be folders which indicates the version of the script by their names.
 
 //RU
 
-Программа для автоматической отправки запроса на разблокировку загрузчика 
+Программа для автоматической отправки запроса на разблокировку загрузчика.
+
 Может быть использована на HyperOS1/2/3.
 
-Пожалуйста, читайте инструкцию. Подключение телефона не нужно для разблокировки.
+Подключение телефона не нужно для разблокировки.
 
 Исходный код находится в том же архиве что и сама программа.
 

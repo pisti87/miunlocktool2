@@ -30,7 +30,7 @@ All HyperOS versions work EXCEPT China (CNXM). The tool also can run on Mobile p
 That's it!
 
 
-----------INSTRUCTIONS (Mobile/Tablet)----------
+----------INSTRUCTIONS (Mobile/Tablet)---------
 1) Download new version from Releases page.
 2) Unarchive the whole ZIP anywhere.
 3) Open "README n CREDITS" file, install everything it says and continue from instructions from step 4 (for pc)
@@ -48,6 +48,7 @@ Starting from version 5.8 source code can be found in the "Source Code" folder i
 //RU
 
 ----------О ПРОГРАММЕ----------
+
 Xiaomi Unlock Tool это универсальная программа для разблокировки телефона на вашем Xiaomi/Redmi/Poco!
 Программа работает на всех версиях HyperOS КРОМЕ Китайской (CNXM). Программу можно запустить не только на компьютере, но и ещё на телефоне или даже на планшете!
 

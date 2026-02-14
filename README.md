@@ -2,8 +2,6 @@
 
 ![Logo](images/IMG_20260212_012623_326.jpg)
 
-github.com/laminaty68-ctrl
-
 ----------ABOUT----------
 Xiaomi Unlock Tool is universal program for unlocking bootloader on your Xiaomi/Redmi/Poco phone that runs on HyperOS!
 All HyperOS versions work EXCEPT China (CNXM). The tool also can run on Mobile phone or tablet which means you don't need PC!
@@ -92,6 +90,8 @@ https://t.me/miunlocktoolnew
 
 Telegram (English): 
 The link was supposed to be here.
+
+Script owner/Владелец скрипта: https://github.com/laminaty68-ctrl
 
 The account that managed English telegram channel has been deleted and we wont be able to upload new versions there. Please refer to Global telegram channel since there is both English and russian languages used.
 

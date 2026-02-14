@@ -21,6 +21,8 @@ By downloading and using this software you agree that your Xiaomi may ban your p
 
 If you found any issues or have a suggestion, please go to "Issues" tab.
 
+Starting from version 5.8 source code can be found in the "Source Code" folder in the project. There will be folders which indicates the version of the script by their names.
+
 //RU
 
 Программа для автоматической отправки запроса на разблокировку загрузчика 
@@ -37,6 +39,8 @@ If you found any issues or have a suggestion, please go to "Issues" tab.
 Пользуясь этой программой вы осознаёте риск возможной блоктровки отправки запросов в Xiaomi Community.
 
 Если вы нашли баг или есть предложение, используйте вкладку "Issues" или же "Проблемы".
+
+Начиная с версии 5.8 исходный код может быть найден в папке "Source Code". Внутри папки будут другие папки, название которых показывает версию кода. 
 
 Reddit: https://www.reddit.com/r/miunlocktool
 

@@ -108,3 +108,5 @@ Crypto #2 (Bitcoin/Bitcoin network): bc1qzzt00sk0zdxgskw8xx8cjh4jl69wl7fvlshhsh
 DonationAlerts: https://www.donationalerts.com/r/asinsideout
 
 Яндекс Чаевые: https://tips.yandex.ru/guest/payment/3049248
+
+DaLink: https://dalink.to/asinsideout

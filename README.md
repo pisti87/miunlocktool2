@@ -38,7 +38,7 @@ That's it!
 
 Found any issues or have a suggestion? Contact us:
 Email: asinsideoutt@gmail.com
-Telegram: @hyeplet231 or @miunlocktoolnew
+Telegram: @hyeplet231 or @miunlocktoolrevamp
 Reddit: u/AsInsideOut
 Or create a new issue in "Issues" tab.
 
@@ -80,7 +80,7 @@ Xiaomi Unlock Tool это универсальная программа для �
 
 Нашли баг или у вас есть предложение? Напишите нам:
 Почта: asinsideoutt@gmail.com 
-Телеграм: @hyeplet231 или @miunlocktoolnew
+Телеграм: @hyeplet231 или @miunlocktoolrevamp
 Реддит: u/AsInsideOut
 Или используйте вкладку "Issues"/"Проблемы"
 

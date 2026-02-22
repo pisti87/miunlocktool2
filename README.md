@@ -23,7 +23,7 @@ All HyperOS versions work EXCEPT China (CNXM). The tool also can run on Mobile p
 7) Follow the tutorial and get "new_bbs_token".
 8) Close the instructions window and go to main program.
 9) Insert your "new_bbs_token" in the field and click "Start application".
-10) Wait for 23:55 in Beijing, the program synchronizes the time again.
+10) Wait for 23:58 in Beijing, the program synchronizes the time again.
 11) Wait for 23:59.40, the program will start calculating ping.
 12) In 23:59.58 the program sends the request (or spam them if spam is enabled in the settings).
 13) In 00:01 (Beijing) you can try to bind your Account in developer settings.
@@ -67,7 +67,7 @@ Xiaomi Unlock Tool это универсальная программа для �
 7) Получите токен следуя инструкции
 8) Закройте окно настроек и инструкции и перейдите в главное окно
 9) В поле вставьте токен и нажмите "Начать"
-10) Подождите до 23:55 (Пекин), время снова синхронизируется
+10) Подождите до 23:58 (Пекин), время снова синхронизируется
 11) В 23:59:40 (Пекин) программа начнёт считать пинг, а в 23:59:58 программа начнёт отправлять запросы (если выбран спам режим)
 12) В 00:01 (Пекин) можете попробовать привязать аккаунт в настройках разработчика.
 Готово!

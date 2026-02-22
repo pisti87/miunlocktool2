@@ -1,6 +1,6 @@
 # Xiaomi Unlock Tool
 
-![Logo](images/IMG_20260212_012623_326.jpg)
+![Logo](images/logo_tool.jpg)
 
 
 ----------ABOUT----------

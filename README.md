@@ -101,9 +101,9 @@ The account that managed English telegram channel has been deleted and we wont b
 
 You can support us using crypto or donationalerts! (All money will be split between developers) //// Вы можете поддержать нас используя криптовалюту/DonationAlerts/Яндекс Чаевые! (все деньги будут поделены между разработчиками)
 
-Crypto (USDT/TON network): UQBCkvXTF-NiT7P8g0G-4oiAdsU81rMWJNYBTxDrbl76FabG
+Crypto/Крипта (USDT/TON network): UQBCkvXTF-NiT7P8g0G-4oiAdsU81rMWJNYBTxDrbl76FabG
 
-Crypto #2 (Bitcoin/Bitcoin network): bc1qzzt00sk0zdxgskw8xx8cjh4jl69wl7fvlshhsh
+Crypto/Крипта #2 (Bitcoin/Bitcoin network): bc1qzzt00sk0zdxgskw8xx8cjh4jl69wl7fvlshhsh
 
 DonationAlerts: https://www.donationalerts.com/r/asinsideout
 

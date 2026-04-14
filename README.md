@@ -31,7 +31,10 @@ That's it!
 
 
 ----------INSTRUCTIONS (Mobile/Tablet)---------
+
 Not supported anymore due to many bugs/glitches and etc.
+
+
 
 Found any issues or have a suggestion? Contact us:
 Email: asinsideoutt@gmail.com

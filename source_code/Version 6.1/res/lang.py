@@ -12,6 +12,8 @@ def get_system_language():
                 return "ru"
             elif lang_lower.startswith("id") or lang_lower.startswith("in") or "indonesian" in lang_lower:
                 return "id"
+            elif lang_lower.startswith("hu") or "magyar" in lang_lower:
+                return "hu"
             elif lang_lower.startswith("es") or "spanish" in lang_lower:
                 return "es"
             elif lang_lower.startswith("pt") or "portuguese" in lang_lower:

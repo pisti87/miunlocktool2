@@ -711,6 +711,201 @@ Script version: """ + self._get_version(),
             'mi_unlock_auto_send_final': "→ Auto-sending final Enter...",
         }
 
+    def get_hungarian(self):
+    return {
+        'title': "Xiaomi Unlock Eszköz",
+        'main_title': "Xiaomi Unlock Eszköz",
+        'desc': (
+            f"Eszköz az automatikus feloldási kérelem elküldéséhez\n"
+            f"Készítette: Vozduhan\n"
+            f"Verzió: {self._get_version()}"
+        ),
+        'desc_manual': (
+            f"Kézi mód – válaszd ki az időt a manuális küldéshez\n"
+            f"Készítette: Vozduhan\n"
+            f"Verzió: {self._get_version()}"
+        ),
+        'params': "Paraméterek",
+        'log_success_prefix': "SIKER!",
+        'log_code_message': "Kód: {code} | Üzenet: {msg}",
+        'log_request_parse_error': "[Válasz feldolgozási hiba] Nem sikerült JSON-t értelmezni: {data}",
+        'log_request_failed_no_response': "[Hiba] Nem sikerült elküldeni a kérést (nincs válasz)",
+        'log_request_exception': "[Kérés hiba] {error}",
+        'cookie_label': "New_bbs_ServiceToken:",
+        'cookie_placeholder': "Illeszd be ide a tokent...",
+        'confirm': "Tudomásul veszem a lehetséges fiók tiltás kockázatát",
+        'info': "Információ",
+        'status_ready': "Készen áll az indításra",
+        'ping': "Ping: nincs mérve",
+        'time': "Idő: nincs szinkronizálva",
+        'start_btn': "Indítás",
+        'instructions_btn': "Útmutató és script beállítások",
+        'exit_btn': "Kilépés",
+        'log': "Végrehajtási napló",
+        'clear_log_btn': "Törlés",
+        'unlock_start': "Feloldási folyamat indítása...",
+        'device_id_gen': "Generált deviceId: {}",
+        'ping_start': "Ping számítás indítása...",
+        'ping_server': "Ping {}: {:.2f} ms",
+        'ping_failed': "Nem sikerült pingelni: {}",
+        'ping_error': "Ping hiba {}: {}",
+        'ping_default': "Nem sikerült ping!\nAlapértelmezett érték használata: {} ms",
+        'open_miflash': "MiFlash Unlock",
+        'ping_avg': "Átlagos ping: {:.2f} ms",
+        'ntp_connect': "Kapcsolódás NTP szerverhez: {}",
+        'ntp_time': "Peking idő érkezett {} szervertől: {}",
+        'ntp_failed': "Nem sikerült NTP szerverhez csatlakozni.",
+        'time_wait': "Várakozás ping időre (23:59:50 Peking idő)...",
+        'target_time': "Várakozás eddig: {} (ping figyelembe véve: {} ms)",
+        'target_time_manual': "Várakozás eddig: {} (kézi mód)",
+        'time_reached': "Idő elérve: {}. Küldés indul...",
+        'cookie_skipped': "Cookie ellenőrzés kihagyva",
+        'cookie_expired': "Cookie lejárt, frissítsd (lásd beállítások)",
+        'account_ready': "[Állapot] A fiók küldhet feloldási kérelmet.",
+        'account_blocked': "[Állapot] A fiók tiltva eddig: {} (hónap/nap).",
+        'account_new': "[Állapot] A fiók kevesebb mint 30 napos.",
+        'account_approved': "[Állapot] Jóváhagyva, feloldás eddig lehetséges: {}.",
+        'account_unknown': "[Hiba] Ismeretlen állapot.",
+        'status_error': "[Állapot ellenőrzési hiba] {}",
+        'request_sent': "\nKérés elküldve: {} (UTC+8)",
+        'response_received': "Válasz érkezett: {} (UTC+8)",
+        'request_failed': "[Hiba] Nem sikerült elküldeni a kérést",
+        'response_error': "[Válasz feldolgozási hiba] {}",
+        'request_error': "[Kérés hiba] {}",
+        'confirm_warning': "Kérlek erősítsd meg, hogy érted az összes kockázatot!",
+        'cookie_error': "Adj meg cookie értéket!",
+        'time_error': "Nem sikerült az idő szinkronizálása!",
+        'settings_saved': "\nBeállítások mentve:",
+        'cookie_check': "Token Cookie ellenőrzés: {}",
+        'default_ping': "Alapértelmezett ping: {} ms",
+        'ping_note': "Ez az érték lesz használva ha a ping mérés sikertelen.",
+        'saved': "Beállítások sikeresen elmentve!",
+        'instructions_title': "Beállítások és útmutató",
+        'about_title': "Névjegy",
+        'about_content': (
+            f"Automatikus kérelemküldő eszköz\n"
+            f"bootloader feloldáshoz\n"
+            f"Xiaomi eszközökön HyperOS rendszerrel\n\n"
+            f"Script verzió: {self._get_version()}"
+        ),
+        'general_title': "Követelmények",
+        'general_content': (
+            "1. A Mi fióknak legalább 30 naposnak kell lennie\n\n"
+            "2. A Mi Community fiók régiója Global legyen\n\n"
+            "3. Nem működik kínai ROM-mal (CNXM)\n\n"
+            "4. Az eszköz HyperOS rendszert futtat"
+        ),
+        'firefox_title': "FireFox | Edge",
+        'firefox_content': (
+            "1. Cookie Editor bővítmény telepítése\n\n"
+            "2. Jelentkezz be a Mi Community oldalra\n\n"
+            "3. Másold ki a new_bbs_token értéket"
+        ),
+        'chrome_title': "Chrome",
+        'chrome_content': (
+            "1. Jelentkezz be a Mi Community oldalra\n\n"
+            "2. Futtasd a javascript parancsot\n\n"
+            "3. Másold ki a tokent"
+        ),
+        'trouble_title': "Hibaelhárítás",
+        'trouble_content': "Frissítsd az oldalt vagy jelentkezz ki és vissza.",
+        'authors_title': "Készítők",
+        'authors_content': "Fejlesztő: Vozduhan",
+        'cookie_checkbox': "Token Cookie ellenőrzés kikapcsolása",
+        'ping_label': "Alap ping (ms):",
+        'color_theme_label': "Szín téma:",
+        'color_theme_xiaomi_orange': "Xiaomi narancs",
+        'color_theme_red_sun': "Vörös nap",
+        'color_theme_blue_world': "Kék világ",
+        'save_btn': "Mentés",
+        'close_btn': "Bezárás",
+        'settings': "Beállítások",
+        'auto_mode': "Automatikus mód",
+        'manual_mode': "Kézi mód",
+        'manual_time_label': "Küldési idő (másodperc):",
+        'manual_time_hint': "58.5 - 59.8 (pl.: 59.1)",
+        'manual_mode_start': "Kézi mód: küldés 23:59:{}",
+        'manual_time_error': "Hibás idő formátum",
+        'application_not_submitted': "[Állapot] Kérelem nem elküldve, próbáld újra: {}",
+        'device_binding_hint': "Próbáld meg párosítani az eszközt a beállításokban",
+        'theme_label': "Felület téma:",
+        'theme_system': "Rendszer",
+        'theme_light': "Világos",
+        'theme_dark': "Sötét",
+        'mode_label': "Működési mód:",
+        'cookies_title': "Cookie beszerzés",
+        'expand_cookies': "▶ Cookie beszerzés",
+        'collapse_cookies': "▼ Cookie beszerzés",
+        'check_updates': "Frissítések keresése",
+        'update_available': "Frissítés elérhető",
+        'update_not_available': "Nincs frissítés",
+        'update_checking': "Frissítés ellenőrzése...",
+        'update_error': "Hiba a frissítés ellenőrzésekor",
+        'current_version': "Jelenlegi verzió: {}",
+        'latest_version': "Legújabb verzió: {}",
+        'update_btn_ok': "Rendben",
+        'update_btn_update': "Frissítés",
+        'update_message': "Új verzió érhető el: {}. Megnyissam a letöltési oldalt?",
+        'time_synchronized': "Idő szinkronizálva",
+        'ms': "ms",
+        'default': "alapértelmezett",
+        'welcome_title': "Xiaomi Unlock Eszköz",
+        'welcome_text': (
+            "Üdvözöl a Xiaomi Unlock Tool!\n\n"
+            "FONTOS FIGYELMEZTETÉS:\n\n"
+            "Használat előtt olvasd el az útmutatót!\n\n"
+            "A használat tiltást eredményezhet."
+        ),
+        'welcome_btn': "Folytatás",
+        'language_label': "Nyelv",
+        'log_to_txt_checkbox': "Napló mentése TXT-be",
+        'spam_mode_checkbox': "Spam mód",
+        'spam_mode_desc': "Több kérés küldése rövid idő alatt.",
+        'login_title': "Xiaomi bejelentkezés",
+        'login_user_label': "Fiók / Email / Telefon:",
+        'login_user_placeholder': "Add meg a belépési adatot",
+        'login_pwd_label': "Jelszó:",
+        'login_pwd_placeholder': "********",
+        'login_button': "Bejelentkezés és token lekérés",
+        'logging_in': "Bejelentkezés...",
+        'login_success': "Sikeres bejelentkezés!",
+        'login_failed': "Sikertelen bejelentkezés",
+        'login_failed_generic': "Hibás adatok",
+
+        # Mi Unlock Tool
+        'mi_unlock_title': "Mi Unlock Tool",
+        'mi_unlock_checking_python': "Python ellenőrzése...",
+        'mi_unlock_python_found': "Python megtalálva: {}",
+        'mi_unlock_python_not_found': "Python nincs telepítve!",
+        'mi_unlock_installing': "miunlock telepítése...",
+        'mi_unlock_install_cmd': "Parancs futtatása: pip install miunlock",
+        'mi_unlock_already_installed': "miunlock már telepítve",
+        'mi_unlock_install_success': "Sikeres telepítés",
+        'mi_unlock_install_error': "Telepítési hiba",
+        'mi_unlock_starting': "Indítás...",
+        'mi_unlock_launching': "miunlock indítása...",
+        'mi_unlock_file_not_found': "Fájl nem található: {}",
+        'mi_unlock_not_found': "miunlock nem található!",
+        'mi_unlock_completed': "Mi Unlock Tool befejeződött",
+        'mi_unlock_finished': "Program véget ért",
+        'mi_unlock_error': "Hiba: {}",
+        'mi_unlock_critical_error': "Kritikus hiba: {}",
+        'mi_unlock_close': "Bezárás",
+        'mi_unlock_input_label': "Bemenet:",
+        'mi_unlock_input_placeholder': "Írd be és Enter...",
+        'mi_unlock_send_btn': "Küldés",
+        'mi_unlock_input_prefix': "→ {}",
+        'mi_unlock_input_error': "Bemeneti hiba: {}",
+        'mi_unlock_stdout_error': "Stdout hiba: {}",
+        'mi_unlock_stderr_error': "Stderr hiba: {}",
+        'mi_unlock_auto_sending': "→ Automatikus Enter...",
+        'mi_unlock_auto_send_error': "Auto küldési hiba: {}",
+        'mi_unlock_read_error': "Olvasási hiba: {}",
+        'mi_unlock_process_exit': "Kilépési kód: {}",
+        'mi_unlock_initial_enter': "→ Kezdő Enter...",
+        'mi_unlock_auto_send_final': "→ Záró Enter...",
+    }
+    
     def get_indonesian(self):
         return {
             'title': "Xiaomi Unlock Tool",

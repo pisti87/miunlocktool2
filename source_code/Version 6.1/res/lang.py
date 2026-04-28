@@ -12,7 +12,7 @@ def get_system_language():
                 return "ru"
             elif lang_lower.startswith("id") or lang_lower.startswith("in") or "indonesian" in lang_lower:
                 return "id"
-            elif lang_lower.startswith("hu") or "magyar" in lang_lower:
+            elif lang_lower.startswith("hu") or "hungarian" in lang_lower:
                 return "hu"
             elif lang_lower.startswith("es") or "spanish" in lang_lower:
                 return "es"
@@ -28,6 +28,8 @@ def get_system_language():
         return "ru"
     elif "id" in env_lang or "in" in env_lang or "indonesian" in env_lang:
         return "id"
+    elif "hu" in env_lang or "hungarian" in env_lang:
+        return "hu"
     elif "es" in env_lang or "spanish" in env_lang:
         return "es"
     elif "pt" in env_lang or "portuguese" in env_lang:
@@ -48,6 +50,7 @@ class Translation:
             'ru': self.get_russian(),
             'en': self.get_english(),
             'id': self.get_indonesian(),
+            'hu': self.get_hungarian(),
             'es': self.get_spanish(),
             'zh': self.get_chinese(),
             'pt': self.get_portuguese()
